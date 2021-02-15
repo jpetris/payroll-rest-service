@@ -12,7 +12,7 @@
 	<artifactId>payroll-rest-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>payroll-rest-service</name>
-	<description>A simple implementation of a complete REST service using Spring Boot</description>
+	<description>A simple implementation of a complete RESTful API using Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
